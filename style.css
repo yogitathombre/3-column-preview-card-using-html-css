@@ -1,0 +1,133 @@
+.container
+{
+    margin: auto;
+    
+
+    width: 70%;
+    height: 10rem;
+    margin-top: 11rem;
+    display: flex;
+    border-radius: 2rem;
+}
+.first_con
+{
+    
+   width: 35%;
+   height: 25rem;
+   background-color: hsl(31, 77%, 52%);
+   border-radius: 6px;
+}
+.second_con
+{
+   
+   
+   width: 35%;
+   height: 25rem;
+   background-color: hsl(184, 100%, 22%);
+}
+.third_con
+{
+    
+    width: 33%;
+    background-color:hsl(186, 35%, 22%);
+ border-radius: 6px;
+
+    height: 25rem;
+ 
+}
+.img_1,.img_2,.img_3
+{
+    padding: 33px 23px 0px 32px;
+     width: 3rem;
+}
+.head
+{
+   text-transform: uppercase;
+   color:  hsl(0, 0%, 95%);
+   letter-spacing: none;
+   
+   font-size: 27px;
+   font-family: 'Big Shoulders Display', cursive;
+   
+  
+   
+   
+}
+.style_1
+{
+   padding: 4px 0px 0px 32px;
+   
+   
+}
+.style_2
+{
+   padding: 3px 0px 0px 32px;
+}
+.style_3
+{
+   padding: 3px 0px 0px 36px;
+}
+
+.para_styling
+{
+   font-size: 12px;
+   color: hsla(0, 0%, 100%, 0.75);
+   line-height: 21px;
+    font-family: 'Lexend Deca', sans-serif;;
+  
+}
+.btn
+{
+   background-color: hsl(0, 0%, 95%);
+   padding: 12px 24px 12px 24px;
+   border-radius: 20px;
+   border: none;
+  
+
+}
+.btn a
+{
+   text-decoration: none;
+   font-size: 12px;
+   font-family: 'Lexend Deca', sans-serif;
+   
+   
+   
+}
+.btn_1 a
+{
+   
+   color: hsl(31, 77%, 52%);
+
+  
+}
+
+.btn_2 a
+{
+   color:  hsl(184, 100%, 22%);
+}
+.btn_3 a
+{
+   color:hsl(186, 35%, 22%);
+}
+.btn_1
+{
+   position: relative;
+   top: 55px;
+   left: 30px;
+}
+.btn_2
+{
+   position: relative;
+   top: 55px;
+   left: 34px;
+}
+.btn_3
+{
+   position: relative;
+   top: 55px;
+   left: 36px;
+}
+
+
+
